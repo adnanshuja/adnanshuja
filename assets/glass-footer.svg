@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="149" viewBox="0 0 1200 149" role="img">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0B1124"/><stop offset=".58" stop-color="#111936"/><stop offset="1" stop-color="#0B2631"/></linearGradient>
+<linearGradient id="violet" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#CAB3FF"/><stop offset=".6" stop-color="#9B7AFF"/><stop offset="1" stop-color="#6558DD"/></linearGradient>
+<linearGradient id="mint" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#63F0D3"/><stop offset="1" stop-color="#45BFC5"/></linearGradient>
+<linearGradient id="glass" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#48537C" stop-opacity=".51"/><stop offset="1" stop-color="#263451" stop-opacity=".35"/></linearGradient>
+<radialGradient id="halo"><stop stop-color="#7F5BFA" stop-opacity=".44"/><stop offset="1" stop-color="#7F5BFA" stop-opacity="0"/></radialGradient>
+<radialGradient id="tealhalo"><stop stop-color="#18D5B0" stop-opacity=".28"/><stop offset="1" stop-color="#18D5B0" stop-opacity="0"/></radialGradient>
+<pattern id="dots" width="28" height="28" patternUnits="userSpaceOnUse"><circle cx="1.5" cy="1.5" r="1" fill="#A6BCF4" opacity=".13"/></pattern>
+<filter id="glow" x="-75%" y="-75%" width="250%" height="250%"><feGaussianBlur stdDeviation="12"/></filter>
+
+</defs><rect x="0" y="0" width="1200" height="149" rx="22" fill="url(#bg)" stroke="#626CB0" stroke-width="1.2" /><circle cx="882" cy="72" r="240" fill="url(#halo)" stroke="none" stroke-width="1" /><circle cx="1080" cy="100" r="175" fill="url(#tealhalo)" stroke="none" stroke-width="1" /><text x="44" y="59" font-family="Arial,Helvetica,sans-serif" font-size="30" font-weight="800" fill="#F8F7FF" >Let's build something</text><text x="44" y="96" font-family="Arial,Helvetica,sans-serif" font-size="34" font-weight="800" fill="url(#violet)" >meaningful.</text><text x="500" y="67" font-family="Arial,Helvetica,sans-serif" font-size="17" font-weight="400" fill="#D4D7EA" >Production AI   ·   Agent systems   ·   Full-stack engineering</text><text x="500" y="97" font-family="Arial,Helvetica,sans-serif" font-size="16" font-weight="400" fill="#AABED1" >Architecture and execution, from idea to dependable product.</text></svg>
