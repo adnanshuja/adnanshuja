@@ -1,81 +1,106 @@
 <div align="center">
-  <img src="./assets/hero.svg" alt="Adnan Shuja — Lead AI Engineer and Solutions Architect. Agentic AI, RAG, full-stack platforms and technical leadership." width="100%" />
+  <img src="./assets/hero.svg" alt="Adnan Shuja. Lead AI Engineer and Solutions Architect. Architecting AI. Shipping products." width="100%" />
 
-  <p><strong>I build the systems around AI that make it useful in production.</strong></p>
-  <p>10+ years in software engineering · Production AI platforms · Hands-on full-stack development · Engineering leadership</p>
+  <p><strong>I engineer production AI platforms — from agent orchestration to the full-stack systems that make them usable.</strong></p>
+  <p>10+ years of software engineering &nbsp;·&nbsp; AI platform architecture &nbsp;·&nbsp; Hands-on delivery &nbsp;·&nbsp; Engineering leadership</p>
 
   <p>
-    <a href="mailto:adnanshuja3@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Let's%20connect-Email-50E3A4?style=flat-square&labelColor=15132A" /></a>
-    <a href="https://github.com/adnanshuja?tab=repositories"><img alt="Repositories" src="https://img.shields.io/badge/Explore-Public%20code-B095FF?style=flat-square&labelColor=15132A" /></a>
+    <a href="#selected-work"><img src="https://img.shields.io/badge/EXPLORE-SELECTED%20WORK-9D84F6?style=for-the-badge&labelColor=171528" alt="Explore selected work" /></a>
+    <a href="mailto:adnanshuja3@gmail.com"><img src="https://img.shields.io/badge/CONNECT-EMAIL-60DFAE?style=for-the-badge&labelColor=171528" alt="Contact by email" /></a>
+    <a href="https://github.com/adnanshuja?tab=repositories"><img src="https://img.shields.io/badge/VIEW-PUBLIC%20CODE-A9B4D2?style=for-the-badge&labelColor=171528" alt="Explore public repositories" /></a>
   </p>
 </div>
 
 ---
 
-### What I work on
+## About
 
-I’m a **Lead AI Engineer / Solutions Architect** who combines AI system design with hands-on application engineering. My work spans **agent orchestration, retrieval-grounded AI, product architecture, backend platforms, and developer experience**.
+I'm a **Lead AI Engineer / Solutions Architect** who is equally comfortable discussing system boundaries, reviewing a pull request, building APIs, or shipping a full-stack product.
 
-- **Production AI:** Design agentic workflows, RAG systems, tool integrations, human-in-the-loop checkpoints, evaluation, and observability.
-- **Full-stack delivery:** Build applications and APIs with React, Next.js, TypeScript, Node.js, and Python.
-- **Technical leadership:** Guide architecture decisions, review code, mentor engineers, and improve release processes across engineering and QA.
-- **Reliability by design:** Favor deterministic workflow state, explicit contracts, observability, secure integrations, and automated delivery over demo-only AI.
+My focus is **agentic AI, retrieval-augmented generation, AI-powered digital services, and reliable application architecture**. I work across product engineering, orchestration, knowledge retrieval, integrations, DevOps, and technical leadership.
 
-### Engineering toolkit
+> **Engineering principle:** Give AI the right context and capabilities. Keep critical state, permissions, and outcomes verifiable.
 
-| Area | Tools & technologies |
-| :-- | :-- |
-| **AI & agent systems** | LangGraph · CrewAI · MCP · A2A · LLM applications · RAG |
-| **Knowledge & evaluation** | Pinecone · Qdrant · Langfuse · semantic caching · retrieval evaluation |
-| **Applications** | TypeScript · JavaScript · Next.js · React · Node.js · Python |
-| **Data & infrastructure** | PostgreSQL · Redis · Docker · GitHub Actions · CI/CD |
-| **Architecture** | API design · workflow orchestration · microservices · human-in-the-loop systems |
+## Systems I design
 
-### Selected engineering work
+<img src="./assets/ai-architecture.svg" alt="Conceptual AI application architecture from product UI through agent orchestration, deterministic workflow state, retrieval, tools and human review." width="100%" />
+
+**What matters beyond the model:** grounded responses, bounded tool execution, deterministic workflow state, explicit approval gates, traces, evaluation, and failure recovery.
+
+## Selected work
+
+### 01 / Government conversational AI & digital services
+**Enterprise AI engineering** &nbsp;·&nbsp; **Professional experience** &nbsp;·&nbsp; **Implementation private**
+
+**The challenge** — Digital public services need more than a chatbot: users need trustworthy information, clear next steps, and safe orchestration across many underlying services.
+
+**My contribution** — Technical leadership and hands-on architecture for conversational AI, agentic workflows, RAG, platform integrations, and engineering delivery. I work across architecture decisions, code reviews, mentoring, and deployment practices.
+
+**Engineering focus** — Retrieval quality · Tool boundaries · Human-in-the-loop controls · Observability · Maintainable service integration
+
+<sub>Shared at a high level; proprietary implementation and internal information are not published.</sub>
+
+### 02 / AVA — AI-guided visa journeys
+**Product architecture & full-stack engineering** &nbsp;·&nbsp; **In development** &nbsp;·&nbsp; **Repositories private**
+
+**The challenge** — Visa pathways involve evolving requirements, ambiguous eligibility, complex document requirements, and tasks that may need human assistance.
+
+**The approach** — An AI-guided user experience connected to **structured, policy-aware journeys**, document extraction and validation, and optional managed-service operations. AI explains and guides; explicit workflow state controls the journey.
+
+**Engineering focus** — Journey orchestration · Next.js / TypeScript · Backend APIs · Document intelligence · Staff operations · Safe automation
+
+<sub>Private product in active development; this is a description of the product direction, not a claim of completed or publicly available features.</sub>
+
+### 03 / [Disciplined Agents](https://github.com/adnanshuja/disciplined-agents)
+**Public engineering project** &nbsp;·&nbsp; **AI-assisted software development**
+
+**The challenge** — Coding assistants can drift beyond the requested scope, produce unjustified changes, and make diffs harder to audit.
+
+**The approach** — A structured execution-discipline framework built around task interpretation, explicit scope, verification gates, and per-change justification.
+
+**Engineering focus** — Smaller diffs · Transparent decisions · Repeatable reviews · Controlled agent behavior
+
+[**Explore the repository →**](https://github.com/adnanshuja/disciplined-agents)
+
+---
+
+## Engineering toolkit
+
+| Discipline | Technologies and patterns |
+| :--- | :--- |
+| **Agentic AI** | LangGraph · CrewAI · MCP · A2A · Agent orchestration · LLM integration |
+| **Retrieval & observability** | RAG · Pinecone · Qdrant · Langfuse · Semantic caching · Evaluation |
+| **Full-stack engineering** | React · Next.js · TypeScript · JavaScript · Node.js · Python |
+| **Platforms & delivery** | PostgreSQL · Redis · Docker · GitHub Actions · CI/CD · Microservices |
+| **System design** | API contracts · Workflow engines · Human-in-the-loop · Auditability · Tool security |
+
+## How I lead and build
 
 <table>
   <tr>
-    <td width="50%" valign="top">
-      <strong>🏛️ Government digital services</strong><br/>
-      <sub>Professional work · Source code private</sub>
-      <p>Engineering conversational AI and agent-powered experiences for public-sector digital services, with an emphasis on trustworthy retrieval, controlled tool execution, and platform-scale delivery.</p>
+    <td width="33%" valign="top">
+      <strong>01 — Architect</strong>
+      <p>Design clear responsibilities between AI, application logic, state, APIs, and people.</p>
     </td>
-    <td width="50%" valign="top">
-      <strong>🧭 AVA / GetAnyVisa</strong><br/>
-      <sub>Product in development · Source code private</sub>
-      <p>Building an AI-guided visa journey platform that combines pathway discovery, document understanding, structured workflows, and human support for complex processes.</p>
+    <td width="33%" valign="top">
+      <strong>02 — Build</strong>
+      <p>Stay hands-on with backend, frontend, integrations, testing, and delivery.</p>
     </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <strong>🛡️ <a href="https://github.com/adnanshuja/disciplined-agents">Disciplined Agents</a></strong><br/>
-      <sub>Public repository</sub>
-      <p>An execution-discipline approach to AI-assisted coding: explicit scope, validation gates, justified changes, and traceable diffs.</p>
-    </td>
-    <td width="50%" valign="top">
-      <strong>⚙️ Engineering enablement</strong><br/>
-      <sub>Architecture & team leadership</sub>
-      <p>Improving delivery through automated deployments, practical code review standards, developer tooling, and maintainable full-stack architecture.</p>
+    <td width="33%" valign="top">
+      <strong>03 — Raise the bar</strong>
+      <p>Lead a multidisciplinary team of around ten through reviews, mentoring, and practical engineering standards.</p>
     </td>
   </tr>
 </table>
 
-### How I think about production AI
+### Currently exploring
 
-**Models are one component.** The product succeeds when the rest of the system is dependable.
-
-1. **Ground decisions** in verified data, clear requirements, and explicit workflow state.
-2. **Constrain actions** with typed tools, permissions, approvals, and auditable boundaries.
-3. **Measure behavior** with traces, evaluations, tests, and operational feedback.
-4. **Ship the whole product** — UI, APIs, infrastructure, CI/CD, and ongoing reliability.
-
-### Currently focused on
-
-**Agentic AI architectures** · **Reliable RAG** · **MCP/A2A integrations** · **AI platform engineering** · **Full-stack product delivery**
+**Reliable agents** &nbsp;·&nbsp; **Evaluation-driven RAG** &nbsp;·&nbsp; **Interoperable agent protocols** &nbsp;·&nbsp; **Developer productivity**
 
 ---
 
 <div align="center">
-  <strong>Interested in production AI systems, architecture, or engineering leadership?</strong><br/>
-  <a href="mailto:adnanshuja3@gmail.com">Let's talk</a> · <a href="https://github.com/adnanshuja">GitHub</a>
+  <strong>Interested in production AI, full-stack architecture, or engineering leadership?</strong>
+  <p><a href="mailto:adnanshuja3@gmail.com">Get in touch</a> &nbsp;·&nbsp; <a href="https://github.com/adnanshuja?tab=repositories">Explore repositories</a></p>
+  <sub>Designing systems that are useful, observable, and built to last.</sub>
 </div>
