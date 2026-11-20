@@ -22,6 +22,11 @@
   <img src="./assets/glass-tech-stack.svg" alt="Visual technology toolkit: Python, TypeScript, JavaScript, SQL, React, Next.js, HTML5, CSS3, Node.js, Express, PostgreSQL, Redis, LangGraph, CrewAI, MCP, A2A, RAG, Langfuse, Docker, GitHub, CI/CD and Git." width="100%" />
 </div>
 
+<div align="center">
+  <sub>LANGUAGES &nbsp; · &nbsp; FRAMEWORKS &nbsp; · &nbsp; INFRASTRUCTURE</sub><br/>
+  <img src="https://skillicons.dev/icons?i=py,ts,js,react,nextjs,html,css,nodejs,express,postgres,redis,docker,githubactions,git&theme=dark&perline=14" alt="Technology logos: Python, TypeScript, JavaScript, React, Next.js, HTML, CSS, Node.js, Express, PostgreSQL, Redis, Docker, GitHub Actions and Git" />
+</div>
+
 <details>
   <summary><strong>Engineering toolkit — accessible text version</strong></summary>
 
