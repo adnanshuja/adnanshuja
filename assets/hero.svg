@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="310" viewBox="0 0 1200 310" role="img" aria-labelledby="title desc">
+  <title id="title">Adnan Shuja — Lead AI Engineer and Solutions Architect</title>
+  <desc id="desc">A dark navy header with electric purple and emerald highlights, connecting AI systems and software architecture.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0B1022"/>
+      <stop offset=".57" stop-color="#14112E"/>
+      <stop offset="1" stop-color="#0A2227"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#B095FF"/>
+      <stop offset=".55" stop-color="#8B5CF6"/>
+      <stop offset="1" stop-color="#50E3A4"/>
+    </linearGradient>
+    <radialGradient id="orb">
+      <stop offset="0" stop-color="#7C3AED" stop-opacity=".34"/>
+      <stop offset="1" stop-color="#7C3AED" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="35" height="35" patternUnits="userSpaceOnUse">
+      <path d="M35 0H0V35" fill="none" stroke="#9B8DD5" stroke-opacity=".10"/>
+    </pattern>
+    <filter id="softGlow" x="-70%" y="-70%" width="240%" height="240%">
+      <feGaussianBlur stdDeviation="7"/>
+    </filter>
+  </defs>
+  <rect width="1200" height="310" rx="20" fill="url(#background)"/>
+  <rect width="1200" height="310" rx="20" fill="url(#grid)"/>
+  <circle cx="984" cy="151" r="226" fill="url(#orb)"/>
+  <rect x="0" y="0" width="9" height="310" rx="4" fill="url(#accent)"/>
+  <rect x="61" y="42" width="128" height="29" rx="14.5" fill="#1F2040" stroke="#55518E"/>
+  <circle cx="78" cy="56.5" r="4.5" fill="#50E3A4"/>
+  <text x="91" y="62" fill="#CCC7EC" font-size="12" font-family="Arial, Helvetica, sans-serif" letter-spacing="1.3">ENGINEERING</text>
+  <text x="61" y="146" fill="#F6F3FF" font-size="58" font-weight="800" font-family="Arial, Helvetica, sans-serif" letter-spacing="-1.5">Adnan Shuja</text>
+  <text x="62" y="194" fill="url(#accent)" font-size="28" font-weight="700" font-family="Arial, Helvetica, sans-serif">Lead AI Engineer  /  Solutions Architect</text>
+  <text x="62" y="241" fill="#C4BEDA" font-size="19" font-family="Arial, Helvetica, sans-serif">Agentic AI  ·  RAG  ·  Full-Stack Platforms  ·  Technical Leadership</text>
+  <line x1="62" y1="267" x2="688" y2="267" stroke="url(#accent)" stroke-opacity=".4" stroke-width="2"/>
+  <g fill="none" stroke-width="2">
+    <circle cx="998" cy="153" r="85" stroke="#A78BFA" stroke-opacity=".28" stroke-dasharray="6 8"/>
+    <circle cx="998" cy="153" r="51" stroke="#50E3A4" stroke-opacity=".38"/>
+    <path d="M998 102L1065 91L1100 149L1068 217L982 226L923 177L943 113Z" stroke="#B095FF" stroke-opacity=".75"/>
+    <path d="M998 102L998 153L1100 149M998 153L923 177M998 153L1068 217M998 153L982 226M998 153L943 113" stroke="#50E3A4" stroke-opacity=".42"/>
+  </g>
+  <circle cx="998" cy="153" r="14" fill="#50E3A4" opacity=".3" filter="url(#softGlow)"/>
+  <circle cx="998" cy="153" r="9" fill="#50E3A4"/>
+  <g fill="#B095FF">
+    <circle cx="998" cy="102" r="7"/><circle cx="1065" cy="91" r="7"/><circle cx="1100" cy="149" r="7"/>
+    <circle cx="943" cy="113" r="7"/><circle cx="923" cy="177" r="7"/>
+  </g>
+  <g fill="#50E3A4"><circle cx="1068" cy="217" r="7"/><circle cx="982" cy="226" r="7"/></g>
+  <circle cx="998" cy="153" r="110" stroke="#FFFFFF" stroke-opacity=".055" fill="none"/>
+</svg>
