@@ -30,7 +30,7 @@ I care about turning AI prototypes into **reliable production systems**, with gr
 
 **Frontend**
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind&theme=light" alt="React, Next.js, HTML5, CSS3, Tailwind CSS" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css&theme=light" alt="React, Next.js, HTML5, CSS3" />
 
 **Backend & data**
 
